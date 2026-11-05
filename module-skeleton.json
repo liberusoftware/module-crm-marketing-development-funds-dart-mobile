@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-marketing-development-funds-dart-mobile",
+  "capabilityKey": "liberusoftware/module-crm-marketing-development-funds",
+  "presentation": "dart-mobile",
+  "package": "module_crm_marketing_development_funds_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/crm/nextjs/marketing-development-funds.md",
+  "presentationPlan": "projects/crm/features/marketing-development-funds.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
